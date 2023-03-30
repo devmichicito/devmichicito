@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose aka Michi 😼</h1>
 <h3 align="center">A passionate JavaScript FullStack developer from Guadalajara, Mexico</h3>
 
+- ⚡ Current projects:
+- - 🤝 QuizzApp [Quizz app to help you studying](https://quizz-app-wine.vercel.app/)
+
 <p><img align="center" src="https://i.imgur.com/h8cwigk.jpg" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmichicito&label=spies&color=d4ff00&style=plastic" alt="devmichicito" /> </p>
